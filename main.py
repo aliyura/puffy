@@ -1,7 +1,7 @@
 while True:
-    username = input("Enter Username:")
-    if username=="puffy":
-        print('Welcome Puffy!')
+    username = input("Provide Username:")
+    if username=="aliyura":
+        print('Welcome to Home page!')
         break;
     else:
         print("Invalid Username!")
